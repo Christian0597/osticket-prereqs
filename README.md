@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the ticketing syste
 
 <h2>Installation Steps</h2>
 
-1.) The first step is to create a virtual machine by visiting https://portal.azure.com/. Configure your virtual machine using Windows 10 Pro, version 22H2. Ensure that the virtual machine has at least 2 vCPUs and 16 GBs of memory.
+1.) The first step is to create a virtual machine in [azure](https://portal.azure.com/). Configure your virtual machine using Windows 10 Pro, version 22H2. Ensure that the virtual machine has at least 2 vCPUs and 16 GBs of memory.
 
 2.) Once you have created your virtual machine, you will want to connect to it using the public IP address with which the VM is set up. You can connect through the Remote Desktop Connection application.
 
