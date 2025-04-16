@@ -78,23 +78,22 @@ This tutorial outlines the prerequisites and installation of the ticketing syste
 To verify that IIS is installed and enabled, open a browser and navigate to 127.0.0.1; the page should display the default IIS welcome screen.
 
 
-<p>
 
-<p>
+
+
 
 5.) With IIS now enabled, proceed to download and install the PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the Installation Files. Follow the installation wizard to completion.
 
-<p>
 
-</p>
-<p>
+
+
 
 6.) Then, from the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi).
 
-<p>
 
-</p>
-<p>
+
+
+
   
 7.) Create a new folder on the C drive and name it PHP.
 
