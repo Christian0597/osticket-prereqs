@@ -79,20 +79,20 @@ To verify that IIS is installed and enabled, open a browser and navigate to 127.
 
 
 <p>
-<img src="https://imgur.com/J3AILEQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
 <p>
 
 5.) With IIS now enabled, proceed to download and install the PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the Installation Files. Follow the installation wizard to completion.
 
 <p>
-<img src="https://i.imgur.com/7CKKobF.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
 6.) Then, from the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi).
 
 <p>
-<img src="https://i.imgur.com/WUWLs9Z.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
   
