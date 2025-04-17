@@ -189,7 +189,7 @@ To proceed, we need to enable three extensions:
 
 15.) After enabling the necessary extensions in IIS, we need to rename a file within our osTicket folder. Navigate to the file explorer and locate C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
 
-We will rename ost-sampleconfig.php to ost-config.php.
+Rename ost-sampleconfig.php to ost-config.php.
 
 Following the file renaming, right-click on the file and select properties. Then, click on the security tab, select advanced, and disable inheritance. Choose to remove all inherited permissions from this object.
 
