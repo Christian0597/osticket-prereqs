@@ -6,7 +6,6 @@
 This tutorial outlines the prerequisites and installation of the ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
 <h2>Environments and Technologies Used</h2>
 
